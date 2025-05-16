@@ -3,7 +3,7 @@
     </div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Moataz+Elmesmary+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+and+BI+Developer;Python+language+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Achintya+Mandal+%F0%9F%91%8B;ML+and+DL+Learner;Passionate+Data+and+BI+Developer;Python+language+Enthusiast" alt="Headline" />
     </div>
 
 <h3 align="center">Software Engineer, passionate about Data Science, Machine Learning, Deep Learning, and Business Intelligence Development.</h3>
